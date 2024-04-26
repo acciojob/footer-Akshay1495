@@ -21,11 +21,15 @@
 	font-size: 40px;
 }
 
+.media-icons{
+	display:flex;
+}
+
 .media-icons i {
 	 margin-right: 20px;
 	font-size: 30px;
 }
-  .footer-sections {
+ .link-boxes {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
